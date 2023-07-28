@@ -1,8 +1,46 @@
 #index {
     text-align: center;
-    background-color: #bcf6ff;
+    background-color: #c1f9ff;
+    font-family: "Times New Roman", sans-serif;
 }
 
 h1 {
-    margin: 10px 250px 20px;
+    text-align: center;
+    background-color: #ffb5b7;
+}
+
+li {
+    margin: 15px 10px 15px;
+}
+
+h3 {
+    margin: 10px 55px 10px;
+    background-color:
+}
+
+li, h3, h2, h4 {
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+.recipes {
+    color: green;
+    font-weight:900;
+}
+
+#bg {
+    background-color:#fff9e2;
+}
+
+img {
+    height:auto;
+    width:500px
+}
+
+.fumo, #baka{
+    height:auto;
+    width: 100px;
 }
