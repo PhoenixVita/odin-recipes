@@ -1,4 +1,3 @@
 # odin-recipes
 
-A simple recipe webpage made for "The Odin Project" consisting of only HTML
-View the page here: https://phoenixvita.github.io/odin-recipes/
+A simple recipe webpage designed for an exercise in "The Odin Project," as well as this user's very first webpage.
