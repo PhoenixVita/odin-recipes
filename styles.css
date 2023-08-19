@@ -44,3 +44,15 @@ img {
     height:auto;
     width: 100px;
 }
+
+div {
+    margin-top: 50px;
+}
+
+audio {
+    margin-top: 30px;
+}
+
+.quotes {
+    margin: 25px;
+}
